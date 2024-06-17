@@ -16,5 +16,11 @@
 
         Rectangle rectangle = new Rectangle(4.0, 5.0);
         Console.WriteLine("Rectangle Area: " + rectangle.GetArea());
+
+        Car myCar = new Car();
+        myCar.Move();
+
+        Bicycle myBicycle = new Bicycle();
+        myBicycle.Move();
     }
 }
