@@ -10,5 +10,11 @@
 
         Cat myCat = new Cat();
         myCat.MakeSound();
+
+        Circle circle = new Circle(3.0);
+        Console.WriteLine("Circle Area: " + circle.GetArea());
+
+        Rectangle rectangle = new Rectangle(4.0, 5.0);
+        Console.WriteLine("Rectangle Area: " + rectangle.GetArea());
     }
 }
