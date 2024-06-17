@@ -1,0 +1,14 @@
+C:\Users\user\VScode\DCIT318-Assignment-10973308\DCIT318-Assignment-10973308\bin\Debug\net8.0\DCIT318-Assignment-10973308.exe
+C:\Users\user\VScode\DCIT318-Assignment-10973308\DCIT318-Assignment-10973308\bin\Debug\net8.0\DCIT318-Assignment-10973308.deps.json
+C:\Users\user\VScode\DCIT318-Assignment-10973308\DCIT318-Assignment-10973308\bin\Debug\net8.0\DCIT318-Assignment-10973308.runtimeconfig.json
+C:\Users\user\VScode\DCIT318-Assignment-10973308\DCIT318-Assignment-10973308\bin\Debug\net8.0\DCIT318-Assignment-10973308.dll
+C:\Users\user\VScode\DCIT318-Assignment-10973308\DCIT318-Assignment-10973308\bin\Debug\net8.0\DCIT318-Assignment-10973308.pdb
+C:\Users\user\VScode\DCIT318-Assignment-10973308\DCIT318-Assignment-10973308\obj\Debug\net8.0\DCIT318-Assignment-10973308.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\VScode\DCIT318-Assignment-10973308\DCIT318-Assignment-10973308\obj\Debug\net8.0\DCIT318-Assignment-10973308.AssemblyInfoInputs.cache
+C:\Users\user\VScode\DCIT318-Assignment-10973308\DCIT318-Assignment-10973308\obj\Debug\net8.0\DCIT318-Assignment-10973308.AssemblyInfo.cs
+C:\Users\user\VScode\DCIT318-Assignment-10973308\DCIT318-Assignment-10973308\obj\Debug\net8.0\DCIT318-Assignment-10973308.csproj.CoreCompileInputs.cache
+C:\Users\user\VScode\DCIT318-Assignment-10973308\DCIT318-Assignment-10973308\obj\Debug\net8.0\DCIT318-Assignment-10973308.dll
+C:\Users\user\VScode\DCIT318-Assignment-10973308\DCIT318-Assignment-10973308\obj\Debug\net8.0\refint\DCIT318-Assignment-10973308.dll
+C:\Users\user\VScode\DCIT318-Assignment-10973308\DCIT318-Assignment-10973308\obj\Debug\net8.0\DCIT318-Assignment-10973308.pdb
+C:\Users\user\VScode\DCIT318-Assignment-10973308\DCIT318-Assignment-10973308\obj\Debug\net8.0\DCIT318-Assignment-10973308.genruntimeconfig.cache
+C:\Users\user\VScode\DCIT318-Assignment-10973308\DCIT318-Assignment-10973308\obj\Debug\net8.0\ref\DCIT318-Assignment-10973308.dll
